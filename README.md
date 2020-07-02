@@ -1,4 +1,6 @@
 
+![alt text](https://raw.githubusercontent.com/gnopor/React-nodejs-PDF-generator/master/thumbnail.png)
+
 ## Available Scripts in development
 
 In the project directory, you can run:
